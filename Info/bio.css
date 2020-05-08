@@ -1,0 +1,96 @@
+body,html
+{
+    height:100%;
+}
+.Me
+{
+    width:450px;
+    position: absolute;
+    top:20%;
+    left:7%;
+}
+.AA
+{
+    width:50px;
+    position: absolute;
+    top: 11%;
+    left:5%;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    transform: rotate(95deg)
+}
+.MM
+{
+    font-family: 'VT323',monospace;
+    color: white;
+    font-size: 65px;
+    position: absolute;
+    top:13.5%;
+    left:7%;
+}
+.bg
+{
+    background-image:url(Images/Background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio
+{
+    font-size: 80px;
+    color: darkgray;
+    font-family:'VT323',monospace;
+    position: absolute;
+    left:46%;
+    top:5%;
+    cursor:pointer;
+}
+
+.resume
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:70px;
+    top:1%;
+    right:8%;
+}
+.contact
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:70px;
+    top:1%;
+    left:15%;
+}
+.appolo
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color:white;
+    font-size: 30px;
+    top:8%;
+    left:0.75%;
+    -webkit-transform:rotate(330deg);
+ -moz-transform: rotate(330deg);
+ -ms-transform: rotate(330deg);
+ -o-transform: rotate(330deg);
+ transform: rotate(330deg);
+}
+.Homepg
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:70px;
+    top:1%;
+    right:22%;
+    cursor: pointer;
+    
+}
+body
+{
+    background-color: dimgrey;
+}

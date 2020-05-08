@@ -1,0 +1,65 @@
+
+body,html
+{
+    height:100%;
+}
+.bg
+{
+    background-image:url(Images/Background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:70px;
+    top:1%;
+    left:6%;
+}
+.bio
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:70px;
+    top:1%;
+    right:22%;
+    cursor: pointer;
+}
+.resume
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:70px;
+    top:1%;
+    right:8%;
+}
+body
+{
+    background-color: dimgrey;
+}
+.arrow
+{
+ width: 50px;
+ position: absolute;
+ left:50%;
+ animation-name: move-up;
+ animation-duration: 3s;
+ animation-fill-mode: forwards;
+ animation-timing-function: step-end;
+ animation-iteration-count: infinite;
+ cursor: pointer;
+}
+@keyframes move-up
+{
+    0% {left: 50%; top:3%; border-radius: 0px;}
+    25%{left: 50%; top:2.5%; border-radius: 0px;}
+    70%{left: 50%;top:1.5%;border-radius: 0%;}
+    85%{left:50%;top:1%;border-radius: 0%;}
+    100%{left: 50%;top: 0%;border-radius: 0%;} 
+}
