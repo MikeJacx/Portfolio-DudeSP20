@@ -11,21 +11,82 @@ body,html
     background-repeat: no-repeat;
     background-size: cover;
 }
+.bro
+{
+    position: absolute;
+    width: 17%;
+    top: 17%;
+    left: 40%;
+}
+.flawda
+{
+width: 11%;
+position: absolute;
+top: 53%;
+left:28.4%;
+}
+.scuf
+{
+    width:20%;
+    position: absolute;
+    left: 40%;
+    top:73%;
+
+}
+.gfuel
+{
+    width: 22%;
+    position: absolute;
+    top:36.25%;
+    left:62%;
+}
+.nike
+{
+    width:17%;
+    position: absolute;
+    top: 16%;
+    left: 63%;
+}
+
+.quhris
+{
+width:25%;
+position: absolute;
+top: 17%;
+left:12%;
+}
+.roe
+{
+    width:14.5%;
+    position: absolute;
+    top: 53%;
+    left:12%;
+}
+.EE
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:2.4vw;
+    bottom:0;
+    right:1.2%;
+}
 .contact
 {
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     top:1%;
     left:6%;
+    cursor: pointer;
 }
 .bio
 {
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     top:1%;
     right:22%;
     cursor: pointer;
@@ -35,9 +96,10 @@ body,html
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     top:1%;
     right:8%;
+    cursor: pointer;
 }
 body
 {
@@ -45,7 +107,7 @@ body
 }
 .arrow
 {
- width: 50px;
+ width: 3%;
  position: absolute;
  left:50%;
  animation-name: move-up;

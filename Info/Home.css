@@ -15,7 +15,7 @@ body,html
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     bottom:45%;
     left:40%
 }
@@ -24,16 +24,17 @@ body,html
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     top:1%;
     left:6%;
+    cursor: pointer;
 }
 .bio
 {
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     top:1%;
     right:22%;
     cursor: pointer;
@@ -43,7 +44,7 @@ body,html
     font-family: 'VT323',monospace;
     position: absolute;
     color: white;
-    font-size:70px;
+    font-size:3.7vw;
     top:0;
     right: 35%;
 }
@@ -52,9 +53,10 @@ body,html
     font-family: 'VT323',monospace;
     position: absolute;
     color: darkgray;
-    font-size:70px;
+    font-size:3.7vw;
     top:1%;
     right:8%;
+    cursor: pointer;
 }
 nav-width
 {
@@ -66,7 +68,7 @@ site-width
 }
 .Homepg
 {
-    font-size: 80px;
+    font-size: 3.8vw;
     color: darkgray;
     font-family:'VT323',monospace;
     position: absolute;
@@ -76,14 +78,14 @@ site-width
 }
 .CImage
 {
-    width:275px;
+    width:14.4%;
     position: Absolute;
     top:12%;
     left: 31%;
 }
 .arrow
 {
- width: 50px;
+ width:3%;
  position: absolute;
  left:50%;
  
@@ -111,7 +113,7 @@ site-width
 
 .MImage
 {
-    width: 275px;
+    width: 14.4%;
     position: absolute;
     top:12%;
     left:15%;
@@ -119,7 +121,7 @@ site-width
 
 .ShirtIm
 {
-    width:275px;
+    width:14.4%;
     position: absolute;
     top: 12%;
     left:47%;
@@ -127,14 +129,14 @@ site-width
 
 .Zoe
 {
-    width: 420px;
+    width: 20%;
     position: absolute;
     top: 12%;
     left:63%;
 }
 .Roe
 {
-    width: 290px;
+    width: 15.2%;
     position: absolute;
     top:55%;
     left:45%;
@@ -142,24 +144,24 @@ site-width
 }
 .MaPage
 {
-    width: 280px;
+    width: 14.6%;
     position: absolute;
     top:56%;
-    left:30.25%;
+    left:30.37%;
 }
 .ShipBuddy
 {
-    width:400px;
+    width:22%;
     position: absolute;
-    bottom:1%;
+    bottom:3%;
     right:16%;
 }
 .Liileek
 {
-width:260px;
+width:14%;
 position: absolute;
 top:57%;
-left:16.58%;
+left:16.4%;
 }
 
 body

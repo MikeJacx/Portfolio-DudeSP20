@@ -1,0 +1,59 @@
+body,html
+{
+    height:100%;
+}
+.bg
+{
+    background-image:url(Images/Background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body
+{
+    background-color: dimgrey;
+}
+
+.bio
+{
+    font-size: 3.8vw;
+    color: darkgray;
+    font-family:'VT323',monospace;
+    position: absolute;
+    left:46%;
+    top:5%;
+    cursor:pointer;
+}
+
+.resume
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:3.7vw;
+    top:1%;
+    right:8%;
+    cursor: pointer;
+}
+.contact
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:3.7vw;
+    top:1%;
+    left:15%;
+    cursor: pointer;
+}
+.Homepg
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:3.7vw;
+    top:1%;
+    right:22%;
+    cursor: pointer;
+    
+}

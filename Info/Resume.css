@@ -1,0 +1,143 @@
+.bg
+{
+    background-image:url(Images/Background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body,html
+{
+    height:100%;
+}
+body
+{
+    background-color: dimgrey;
+}
+.contact
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:3.7vw;
+    top:1%;
+    left:6%;
+    cursor: pointer;
+}
+.bio
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:3.7vw;
+    top:1%;
+    right:22%;
+    cursor: pointer;
+}
+.resume
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:3.7vw;
+    top:1%;
+    right:8%;
+    cursor: pointer;
+}
+.Homepg
+{
+    font-size: 3.8vw;
+    color: darkgray;
+    font-family:'VT323',monospace;
+    position: absolute;
+    left:46%;
+    top:5%;
+    cursor:pointer;
+}
+.Link
+{
+    font-size: 5vw;
+    position: absolute;
+    left: 45%;
+    top:45%;
+}
+.arrow1
+{
+    position: absolute;
+    top:50%;
+    left:36%;
+    width: 10%;
+    transform: rotate(45deg);
+}
+.arrow2
+{
+    position: absolute;
+    width: 10%;
+    top:40%;
+    left:57%;
+    transform: rotate(270deg);
+}
+.arrow3
+{
+    position: absolute;
+    width: 10%;
+    top:25%;
+    left:47%;
+    transform: rotate(180deg);
+}
+.arrpw1
+{
+    position: absolute;
+    width: 11%;
+    top: 57%;
+    left: 49%;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    transform: rotate(270deg);
+
+}
+.arrpw2
+{
+    position: absolute;
+    width: 11%;
+    top: 30%;
+    left: 33%;
+    transform: rotate(50deg);
+}
+.arrpw3
+{
+    position: absolute;
+    width: 11%;
+    top: 25%;
+    left: 53%;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    transform: rotate(150deg); 
+}
+.shia
+{
+ position: absolute;
+ width: 20%;
+ bottom: 3%;
+ left: 3%;
+}
+.push
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:6vw;
+    top:25%;
+    right: 15%;
+    transform: rotate(30deg);
+}
+.it
+{
+    font-family: 'VT323',monospace;
+    position: absolute;
+    color: darkgray;
+    font-size:9vw;
+    top:25%;
+    left: 15% ;
+    transform: rotate(330deg);  
+}
