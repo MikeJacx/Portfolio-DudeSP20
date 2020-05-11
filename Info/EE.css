@@ -1,0 +1,36 @@
+.first
+{
+    position: absolute;
+    font-family:'VT323',monospace;
+    font-size: 4vw;;
+    top: 10%;
+}
+
+.egg
+{
+    position: absolute;
+    top: 30%;
+}
+
+.second
+{
+    position: absolute;
+    font-family:'VT323',monospace;
+    font-size: 4vw;
+    bottom: 5%;
+    right: 2%;
+}
+.arrpw
+{
+    position: absolute;
+    width: 3%;
+    transform: scaleX(-1);
+    cursor: pointer;
+}
+.third
+{
+    position: absolute;
+    bottom: 10%;
+    font-family:'VT323',monospace;
+    font-size: 1.5vw;
+}

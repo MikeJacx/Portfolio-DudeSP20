@@ -57,3 +57,38 @@ body
     cursor: pointer;
     
 }
+.reply1
+{
+font-family: 'VT323',monospace;
+color: darkgray;
+font-size: 4vw;
+position: absolute;
+top: 30%;
+left:20%;
+}
+.reply2
+{
+font-family:'VT323',monospace;
+color: darkgray;
+font-size: 4vw;
+position: absolute;
+top: 30%;
+left: 70%;
+}
+.reply3
+{
+    font-family:'VT323',monospace;
+    color: darkgray;
+    font-size: 4vw;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+}
+.submit
+{
+    position: absolute;
+    font-size: 1vw;
+    cursor: pointer;
+    top:97%;
+    left: 50%;
+}

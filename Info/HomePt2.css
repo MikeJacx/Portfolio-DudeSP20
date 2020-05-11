@@ -117,6 +117,15 @@ body
  animation-iteration-count: infinite;
  cursor: pointer;
 }
+.egg
+{
+    position: absolute;
+    top: 14.4%;
+    left:49%;
+    width: 10%;
+
+    cursor: pointer;
+}
 @keyframes move-up
 {
     0% {left: 50%; top:3%; border-radius: 0px;}
